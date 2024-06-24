@@ -1,0 +1,3 @@
+﻿  Math_Game_Project.cpp
+C:\Users\yosra\Desktop\Math_Game_Project\Math_Game_Project\Math_Game_Project.cpp(158,1): warning C4715: 'GenerateQuestion': not all control paths return a value
+  Math_Game_Project.vcxproj -> C:\Users\yosra\Desktop\Math_Game_Project\x64\Debug\Math_Game_Project.exe
